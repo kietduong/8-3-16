@@ -1,0 +1,25 @@
+.columnA{
+  width: 300px;
+  float: left;
+  background-color: orange;
+}
+
+.columnB {
+  width: 300px;
+  float: left;
+}
+
+.columnC{
+  width: 300px;
+  float: left;
+  background-color: green;
+}
+.logo {
+  float: right;
+}
+
+}
+
+img {
+  padding: 50px;
+}

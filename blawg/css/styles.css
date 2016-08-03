@@ -1,0 +1,26 @@
+.first {
+  float:left;
+  width: 400px;
+  color: red;
+}
+
+.second {
+  margin-top: 200px;
+  float:left;
+  width: 400px;
+  color: purple;
+}
+
+.third {
+  margin-top: 400px;
+  float:left;
+  width: 400px;
+  color: blue;
+}
+
+.about {
+  font-weight: bolder;
+  font-style: oblique;
+  font-family: fantasy;
+  color: blue;
+}
